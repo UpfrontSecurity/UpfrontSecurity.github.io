@@ -3,9 +3,9 @@
   "short_name": "US",
   "theme_color": "#464646",
   "background_color": "#464646",
-  "display": "standalone",
+  "display": "browser",
   "scope": "/",
-  "start_url": "/temp",
+  "start_url": "/#/temp",
   "icons": [
     {
       "src": "assets/icons/us-72x72.png",
