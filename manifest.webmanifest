@@ -5,7 +5,7 @@
   "background_color": "#464646",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "/#/auth/login",
   "icons": [
     {
       "src": "assets/icons/us-72x72.png",
