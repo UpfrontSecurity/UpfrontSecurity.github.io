@@ -1,8 +1,8 @@
 {
   "name": "US",
   "short_name": "US",
-  "theme_color": "#464646",
-  "background_color": "#464646",
+  "theme_color": "#4D4D4D",
+  "background_color": "#4D4D4D",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
@@ -18,7 +18,7 @@
       "type": "image/png"
     },
     {
-      "src": "assets/icons/us-96x96.png",
+      "src": "assets/icons/us-128x128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
@@ -28,7 +28,7 @@
       "type": "image/png"
     },
     {
-      "src": "assets/icons/us-144x144.png",
+      "src": "assets/icons/us-152x152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
@@ -38,7 +38,7 @@
       "type": "image/png"
     },
     {
-      "src": "assets/icons/us-192x192.png",
+      "src": "assets/icons/us-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
