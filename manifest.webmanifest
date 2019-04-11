@@ -2,7 +2,7 @@
   "name": "US",
   "short_name": "US",
   "theme_color": "#4D4D4D",
-  "background_color": "#4D4D4D",
+  "background_color": "#FFFFFF",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
