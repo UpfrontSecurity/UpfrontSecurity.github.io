@@ -247,7 +247,7 @@
   "DASHBOARD": {
     "OPEN-FRAUDS": "Open Frauds",
     "OPEN-FRAUDS-SINCE": "Since last month",
-    "UNATTENDED-ALERTS": "Unattended Alerts",
+    "UNATTENDED-ALERTS": "Un-Read Alerts",
     "UNATTENDED-ALERTS-SINCE": "Since last month",
     "FRAUD-THIS-MONTH": "Frauds This Month",
     "FRAUD-THIS-MONTH-SINCE": "Since last month",
