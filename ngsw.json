@@ -8,19 +8,19 @@
       "updateMode": "prefetch",
       "urls": [
         "/1.25afc3972a72a5827759.js",
-        "/2.b062e932877f353bf631.js",
-        "/6.57725d4aecb9c073f998.js",
-        "/7.4ef1815c9edf9abb33de.js",
+        "/2.5a0eb86f31da8bce8d5d.js",
+        "/6.2af1fb81cb2418e7106b.js",
+        "/7.ebf8087750c906285eb9.js",
         "/8.ec1336f91fc7a9b902db.js",
         "/9.bb215017c1611fab029a.js",
         "/favicon.ico",
         "/firebase-messaging-sw.js",
         "/index.html",
-        "/main.33008ec2ab35d37de64f.js",
+        "/main.4552c60b99a6ce382289.js",
         "/polyfills.b6ff5dbc46d432ea5d73.js",
-        "/runtime.780bdbda120d35e226e0.js",
+        "/runtime.ed15525dcfe04c97e9e9.js",
         "/scripts.54b900d40a93171431d6.js",
-        "/styles.b667100701487e76853b.css"
+        "/styles.94ebd68c02cadab77764.css"
       ],
       "patterns": []
     },
@@ -1654,6 +1654,7 @@
         "/assets/images/register-background.jpg",
         "/assets/js/irma.js",
         "/assets/json/address.json",
+        "/assets/json/auditlog.json",
         "/assets/json/authenticationData.json",
         "/assets/json/countryCodes.json",
         "/assets/json/dashboard.json",
@@ -1671,9 +1672,9 @@
   "dataGroups": [],
   "hashTable": {
     "/1.25afc3972a72a5827759.js": "28c50a8bbca1fc3cf361009e5a6c2da936310617",
-    "/2.b062e932877f353bf631.js": "8ad0b0559cc6e22738fba2df844ab6d7de234999",
-    "/6.57725d4aecb9c073f998.js": "4c637801bbc6d8832832ad9f4896e486b8fef73f",
-    "/7.4ef1815c9edf9abb33de.js": "5788bf353c728ef3c118f7a8021017800e86cdc0",
+    "/2.5a0eb86f31da8bce8d5d.js": "9f000f74606c68f5cc6203785c3c92afa8172ab1",
+    "/6.2af1fb81cb2418e7106b.js": "9df5fb84b814b4267765720ec19afe215277826c",
+    "/7.ebf8087750c906285eb9.js": "c2b26bd569995f948c3377bd3314cfee82bbf88d",
     "/8.ec1336f91fc7a9b902db.js": "991bd3b1e74bdf54cd5dbf11fef937c1ae8ad73b",
     "/9.bb215017c1611fab029a.js": "ced8bb5442d5e29aaef2acffcd02b859b5e800f8",
     "/assets/fontawesome/LICENSE.txt": "9907c55306fffb685ce0e06c9e469475035d5fa6",
@@ -3301,6 +3302,7 @@
     "/assets/images/register-background.jpg": "244b61242ce29d3b02cd84999c6ace9dcb526f68",
     "/assets/js/irma.js": "ac118a462f914c210f93d93afc9bfd43f18e12f7",
     "/assets/json/address.json": "cacfe174f5c02faea3ed665eacf5d9457f13c8ea",
+    "/assets/json/auditlog.json": "bcd55793e368ec2b9e3c1df1ef6c6c7d437aa067",
     "/assets/json/authenticationData.json": "e3181133dbf06554a600d7739c5b6957b4523c2a",
     "/assets/json/countryCodes.json": "af0875aeb32c9eed0021d1edbf2b1457db330b6d",
     "/assets/json/dashboard.json": "6f5bc0f0efcb73aba3512902e74c9991f9c64ebe",
@@ -3313,12 +3315,12 @@
     "/assets/scss/_vars": "6dcabb13da68918259b33f5e696165c23f9409fc",
     "/favicon.ico": "2a46f12440146f86b44254309b9cfa7bf93fc99f",
     "/firebase-messaging-sw.js": "ec4dd3f686bd5651f0bcf22d44c5e9a250652e31",
-    "/index.html": "2c934f64264f47e8540a6601131ce7a0dc0b5c45",
-    "/main.33008ec2ab35d37de64f.js": "e719b5a028ab9d2e2fc6cec0460e18c66cc7bedc",
+    "/index.html": "3b52ce2a173f16af488b6a1b8e9098d7accfacc3",
+    "/main.4552c60b99a6ce382289.js": "5694c77fe238fee092cc73ab01afa936e0948d7c",
     "/polyfills.b6ff5dbc46d432ea5d73.js": "fb66a0eb0314db7aa3662093bc50f9b3766b7076",
-    "/runtime.780bdbda120d35e226e0.js": "4664a92e220a9299b824c74a5924849af6fbcc4a",
+    "/runtime.ed15525dcfe04c97e9e9.js": "09b6c0cc8d0d59e46e2448d3d2cc9ca99845a8ce",
     "/scripts.54b900d40a93171431d6.js": "26309ae978e3c835c242bcdab23636c951c42ccc",
-    "/styles.b667100701487e76853b.css": "5c0f98aded3b555a12b102469ea1d044c3f16353"
+    "/styles.94ebd68c02cadab77764.css": "cbf354671387ed4a7f872138b552b7daebab0d2f"
   },
   "navigationUrls": [
     {
