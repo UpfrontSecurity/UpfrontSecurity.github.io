@@ -221,7 +221,7 @@
     "AMOUNT": "Amount",
     "DATE": "Date",
     "DESCRIPTION": "Description",
-    "REPORT-FORM": "Report Form",
+    "REPORT-FORM": "Report As Fraud",
     "IDENTITY-USAGE-VALID": "Is the identity usage valid?",
     "I-AM-AWARE": "Yes, it's me",
     "NO-NOT-AWARE": "No, it's a Fraud",
@@ -294,10 +294,10 @@
     "U-S": "Success",
 
     "U_101": "First name cannot be empty",
-    "U_102": "First name must be greater than or equal to 3 characters and less than or equal to 25 characters",
+    "U_102": "First name must be greater than or equal to 2 characters and less than or equal to 25 characters",
     "U_103": "Middle name must be less than or equal to 25 characters",
     "U_104": "Last name cannot be empty",
-    "U_105": "Last name must be greater than or equal to 3 characters and less than or equal to 25 characters",
+    "U_105": "Last name must be greater than or equal to 1 characters and less than or equal to 25 characters",
     "U_106": "Email cannot be empty",
     "U_107": "Email is not valid",
     "U_108": "Email must be greater than or equal to 7 characters and less than or equal to 50 characters",
@@ -309,7 +309,7 @@
     "U_114": "LoginId is not valid",
     "U_115": "LoginId must be greater than or equal to 5 characters and less than or equal to 50 characters",
     "U_116": "Passcode must be equal to 8 digits",
-    "U_117": "First name must be greater than or equal to 3 characters and less than or equal to 25 characters",
+    "U_117": "First name must be greater than or equal to 2 characters and less than or equal to 25 characters",
     "U_118": "Mobile must be less than or equal to 12 digits ",
     "U_119": "AddressNo must be less than or equal to 5 characters ",
     "U_120": "AddressSuffix must be less than or equal to 2 characters ",
@@ -357,5 +357,8 @@
     "AS_109": "Alert content must be less than or equal to 200 characters",
     "AS_110": "Source of Alert type must be less than or equal to 20 characters",
     "AS_111": "Invalid sort value"
+  },
+  "PUSH-MGS-SERVICE-ERROR-CODES": {
+    "UN_110": "You are not Authorized to post Messages on behalf of the selected User"
   }
 }
