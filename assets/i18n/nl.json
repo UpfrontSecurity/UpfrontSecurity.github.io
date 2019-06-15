@@ -76,7 +76,10 @@
     "SIGN-UP": "Inschrijven",
     "LOGIN-LINK-HAVE-ACCOUNT": "Heeft u al account?",
     "LOGIN-LINK": "Log In",
-    "REGISTER-INFO-HEADING": "Waarom Upfront Beveiliging"
+    "REGISTER-INFO-HEADING": "Waarom Check!?",
+    "REGISTER-INFO-HEADING-DESC": "Check! is een App van de Rijksoverheid waarmee gebruikers toegang krijgen tot extra beveiliging, interventie en herstel functionaliteiten tegen Identiteitsfraude. Door het ontdekken dat iemand anders jouw Identiteit gebruik, kan fraude worden voorkomen of eerder worden gestopt.",
+    "REGISTER-INFO-PASSWORD-HEADING": "Wachtwoord aanbeveling",
+    "REGISTER-INFO-PASSWORD-HEADING-DESC": "Je wordt aangemoedigd om een wachtwoord te selecteren dat geen informatie bevat dat gemakkelijk kan worden geraden of gekoppeld kan worden op basis van bijvoorbeeld een social media account door andere. Gebruik niet je naam, geboorte datum of andere voor de hand liggende gegevens over jezelf of familieleden. Des te unieker het wachtwoord, des te moeilijker je het maakt voor andere om toegang te krijgen tot jouw account."
   },
   "CONFIRM-PASSWORD": {
     "TITLE": "Bevestig Passcode",
@@ -116,11 +119,11 @@
     "VALIDATION-EMAIL-CODE-INVALID": "Voer een geldige code.",
     "NEW-PASSWORD": "Nieuw paswoord",
     "VALIDATION-NEW-PASSWORD":"Voer het wachtwoord in",
-    "VALIDATION-NEW-PASSWORD-INVALID-LEAST": "Wachtwoord moet ten minste 8 schroeilengte met tenminste",
-    "VALIDATION-NEW-PASSWORD-INVALID-CAPITAL": "* een hoofdletter,",
-    "VALIDATION-NEW-PASSWORD-INVALID-SMALL": "* Een kleine letter,",
-    "VALIDATION-NEW-PASSWORD-INVALID-NUMERIC": "* Één Numerieke en",
-    "VALIDATION-NEW-PASSWORD-INVALID-SPECIAL": "* Een speciaal karakter.",
+    "VALIDATION-NEW-PASSWORD-INVALID-LEAST": "Wachtwoord moet ten minste 8 karakters bevatten in combinatie met:",
+    "VALIDATION-NEW-PASSWORD-INVALID-CAPITAL": "* Eén hoofdletter;,",
+    "VALIDATION-NEW-PASSWORD-INVALID-SMALL": "* Eén kleine letter;",
+    "VALIDATION-NEW-PASSWORD-INVALID-NUMERIC": "* Eén numeriek karakter;",
+    "VALIDATION-NEW-PASSWORD-INVALID-SPECIAL": "* Eén speciaal karakter.",
     "RETYPE-PASSWORD": "Geef nogmaals het wachtwoord",
     "VALIDATION-PASSWORD-NOT-MATCH": "Wachtwoord komt niet overeen",
     "RESET": "Reset",
@@ -253,13 +256,13 @@
     "OPEN-FRAUDS-SINCE": "Sinds afgelopen maand",
     "UNATTENDED-ALERTS": "onbeheerde alerts",
     "UNATTENDED-ALERTS-SINCE": "Sinds afgelopen maand",
-    "FRAUD-THIS-MONTH": "Fraude Deze maand",
+    "FRAUD-THIS-MONTH": "Fraude Deze maand*",
     "FRAUD-THIS-MONTH-SINCE": "Sinds afgelopen maand",
     "UNREAD-TIP-AND-TRICKS": "Ongelezen Tips & Tricks",
     "UNREAD-TIP-AND-TRICKS_SINCE": "Sinds afgelopen maand",
     "TO-DO-DUE-TODAY": "To-do Due Today",
     "TO-DO-DUE-TODAY-SINCE": "Sinds afgelopen maand",
-    "FRAUD-THIS-YEAR": "Fraude Dit Jaar",
+    "FRAUD-THIS-YEAR": "Fraude Dit Jaar*",
     "FRAUD-THIS-YEAR-SINCE": "Sinds afgelopen maand",
 
     "TIP-AND-TRICKS": "Tips en trucs",
@@ -340,7 +343,7 @@
     "U_206": "Gebruiker niet gevonden",
     "U_207": "Gebruiker bestaat al",
 
-    "400": "Combinatie van postcode en huisnummer niet bestaat"
+    "getAddress.zipCode: ZS_101": "Combinatie van postcode en huisnummer niet bestaat"
   },
   "LOGIN-SERVICE-ERROR-CODES": {
     "U_001": "Interne Server Fout",

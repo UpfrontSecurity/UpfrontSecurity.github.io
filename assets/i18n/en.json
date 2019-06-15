@@ -74,7 +74,10 @@
     "SIGN-UP": "Sign Up",
     "LOGIN-LINK-HAVE-ACCOUNT": "Already have account?",
     "LOGIN-LINK": "LogIn",
-    "REGISTER-INFO-HEADING": "Why Upfront Security"
+    "REGISTER-INFO-HEADING": "Why Check!?",
+    "REGISTER-INFO-HEADING-DESC": "Check! is an App from the Dutch Government which provides users with security, intervention & recovery functionalities against Identity Fraud. By discovering when somebody else is using your Identity, you can prevent or stop the fraud sooner.",
+    "REGISTER-INFO-PASSWORD-HEADING": "Password recommendation",
+    "REGISTER-INFO-PASSWORD-HEADING-DESC": "You are encouraged to select a password that does not contain information that could be easily guessed or linked based on for example a social media account by other people. Do not use your name, date of birth or other common data on yourself or even family members. The more unique you make your password, the more difficult you will make potential access to your account by unauthorized people."
   },
   "CONFIRM-PASSWORD": {
     "TITLE": "Confirm Passcode",
@@ -223,8 +226,8 @@
     "DESCRIPTION": "Description",
     "REPORT-FORM": "Report As Fraud",
     "IDENTITY-USAGE-VALID": "Is the identity usage valid?",
-    "I-AM-AWARE": "Yes, it's me",
-    "NO-NOT-AWARE": "No, it's a Fraud",
+    "I-AM-AWARE": "Yes",
+    "NO-NOT-AWARE": "No",
     "NEED-HELP": "Need help",
     "IS-VALID": "Is Valid",
     "REPORT-FRAUD": "Report as Fraud",
@@ -249,13 +252,13 @@
     "OPEN-FRAUDS-SINCE": "Since last month",
     "UNATTENDED-ALERTS": "Un-Read Alerts",
     "UNATTENDED-ALERTS-SINCE": "Since last month",
-    "FRAUD-THIS-MONTH": "Frauds This Month",
+    "FRAUD-THIS-MONTH": "Frauds This Month*",
     "FRAUD-THIS-MONTH-SINCE": "Since last month",
     "UNREAD-TIP-AND-TRICKS": "Unread Tips & Tricks",
     "UNREAD-TIP-AND-TRICKS_SINCE": "Since last month",
     "TO-DO-DUE-TODAY": "To-do Due Today",
     "TO-DO-DUE-TODAY-SINCE": "Since last month",
-    "FRAUD-THIS-YEAR": "Frauds This Year",
+    "FRAUD-THIS-YEAR": "Frauds This Year*",
     "FRAUD-THIS-YEAR-SINCE": "Since last month",
     "TIP-AND-TRICKS": "TIPS AND TRICKS",
     "TIP-AND-TRICKS-INFO": "By reading Tips & Tricks you will better understand how criminals work and give you advice on how to prevent Identity Fraud",
@@ -334,7 +337,7 @@
     "U_206": "User Not Found",
     "U_207": "User already exists",
 
-    "400": "Combination of Zip code and House number does not exist"
+    "getAddress.zipCode: ZS_101": "Combination of Zip code and House number does not exist"
   },
   "LOGIN-SERVICE-ERROR-CODES": {
     "U_001": "Internal Server Error",

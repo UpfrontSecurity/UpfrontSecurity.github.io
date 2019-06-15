@@ -104,6 +104,9 @@ THE SOFTWARE.
 
 @angular/material/select
 
+ngx-spinner
+MIT
+
 ngx-bootstrap
 MIT
 The MIT License (MIT)
@@ -656,9 +659,6 @@ MIT
 MIT
 
 @angular/forms
-MIT
-
-ngx-spinner
 MIT
 
 @angular/animations
