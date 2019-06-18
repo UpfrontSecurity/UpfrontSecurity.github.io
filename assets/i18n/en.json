@@ -345,7 +345,8 @@
     "L_202": "User is permanently blocked",
     "L_203": "User account unverified or reset password",
     "L_204": "Invalid username/password",
-    "L_205": "Account is locked for next 30 minutes. Retry after unlocking."
+    "L_205": "Account is locked for next 30 minutes. Retry after unlocking.",
+    "L_206": "Your password has expired, Reset your password."
   },
   "ALERT-ENQUIRY-SERVICE-ERROR-CODES": {
     "AS_001": "Internal Server Error",
