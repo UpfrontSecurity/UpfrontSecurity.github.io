@@ -1,4 +1,7 @@
 {
+  "ERROR-HEADING": {
+    "ERROR": "Error!"
+  },
   "FOOTER": {
     "ACCOUNT": "Account",
     "Company": "Company",
@@ -78,6 +81,10 @@
     "REGISTER-INFO-HEADING-DESC": "Check! is an App from the Dutch Government which provides users with security, intervention & recovery functionalities against Identity Fraud. By discovering when somebody else is using your Identity, you can prevent or stop the fraud sooner.",
     "REGISTER-INFO-PASSWORD-HEADING": "Password recommendation",
     "REGISTER-INFO-PASSWORD-HEADING-DESC": "You are encouraged to select a password that does not contain information that could be easily guessed or linked based on for example a social media account by other people. Do not use your name, date of birth or other common data on yourself or even family members. The more unique you make your password, the more difficult you will make potential access to your account by unauthorized people."
+
+    "REGISTRATION-SUCCESS": "Registration Success",
+    "REGISTRATION-SUCCESS-DESC": "Registration request is successful and passcode is sent to your registered email.",
+    "REGISTRATION-CONTINUE": "Continue"
   },
   "CONFIRM-PASSWORD": {
     "TITLE": "Confirm Passcode",

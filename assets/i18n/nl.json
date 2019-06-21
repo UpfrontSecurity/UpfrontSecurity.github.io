@@ -1,4 +1,7 @@
 {
+  "ERROR-HEADING": {
+    "ERROR": "Fout!"
+  },
   "FOOTER":{
     "ACCOUNT": "Account",
     "Company": "Bedrijf",
@@ -53,11 +56,11 @@
   "REGISTER": {
     "TITLE": "Gratis aanmelden",
     "TITLE-TEXT": "Heb je nog geen account? Creëer je eigen account, het duurt minder dan een minuut",
-    "UPFRONT-SECURITY-TEXT": "Waarom Upfront Beveiliging",
+    "UPFRONT-SECURITY-TEXT": "Waarom Upfront Security",
 
     "FIRST-NAME": "Voornaam",
     "VALIDATION-FIRST-NAME-EMPTY": "Vul voornaam in.",
-    "VALIDATION-FIRST-NAME-INVALID": "Voer een geldige voornaam.",
+    "VALIDATION-FIRST-NAME-INVALID": "Voer een geldige voornaam in.",
     "MIDDLE-NAME": "Midden-naam",
     "LAST-NAME": "Achternaam",
     "VALIDATION-LAST-NAME-EMPTY": "Voer achternaam in.",
@@ -66,7 +69,7 @@
     "VALIDATION-EMAIL-INVALID": "Vul een geldig e-mailadres in.",
     "PASSWORD": "Wachtwoord",
     "VALIDATION-PASSWORD-EMPTY": "Voer het wachtwoord in",
-    "VALIDATION-PASSWORD-INVALID-LEAST": "Wachtwoord moet ten minste 8 schroeilengte met tenminste",
+    "VALIDATION-PASSWORD-INVALID-LEAST": "Wachtwoord moet ten minste 8 karakters bevatten",
     "VALIDATION-PASSWORD-INVALID-CAPITAL": "* een hoofdletter,",
     "VALIDATION-PASSWORD-INVALID-SMALL": "* Een kleine letter,",
     "VALIDATION-PASSWORD-INVALID-NUMERIC": "* Één Numerieke en",
@@ -78,8 +81,12 @@
     "LOGIN-LINK": "Log In",
     "REGISTER-INFO-HEADING": "Waarom Check!?",
     "REGISTER-INFO-HEADING-DESC": "Check! is een App van de Rijksoverheid waarmee gebruikers toegang krijgen tot extra beveiliging, interventie en herstel functionaliteiten tegen Identiteitsfraude. Door het ontdekken dat iemand anders jouw Identiteit gebruik, kan fraude worden voorkomen of eerder worden gestopt.",
-    "REGISTER-INFO-PASSWORD-HEADING": "Wachtwoord aanbeveling",
+    "REGISTER-INFO-PASSWORD-HEADING": "Waarom Upfront Security",
     "REGISTER-INFO-PASSWORD-HEADING-DESC": "Je wordt aangemoedigd om een wachtwoord te selecteren dat geen informatie bevat dat gemakkelijk kan worden geraden of gekoppeld kan worden op basis van bijvoorbeeld een social media account door andere. Gebruik niet je naam, geboorte datum of andere voor de hand liggende gegevens over jezelf of familieleden. Des te unieker het wachtwoord, des te moeilijker je het maakt voor andere om toegang te krijgen tot jouw account."
+
+    "REGISTRATION-SUCCESS": "Registratie succes",
+    "REGISTRATION-SUCCESS-DESC": "Registratie verzoek is succesvol en wachtwoord wordt verzonden naar uw geregistreerde e-mail.",
+    "REGISTRATION-CONTINUE": "Doorgaan met"
   },
   "CONFIRM-PASSWORD": {
     "TITLE": "Bevestig Passcode",
