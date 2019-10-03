@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1570012351694,
+  "timestamp": 1570076610827,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -63,6 +63,7 @@
         "/assets/fonts/summernote.ttf",
         "/assets/fonts/summernote.woff",
         "/assets/icons/MT360ShadePWA.png",
+        "/assets/icons/MY360LogoPWA.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -286,6 +287,7 @@
     "/assets/fonts/summernote.ttf": "ac1208a1b2b7fdf02e95fc41a95cc03c8632f481",
     "/assets/fonts/summernote.woff": "db14a5b479332023d45af15a5fe9f433bbc6290f",
     "/assets/icons/MT360ShadePWA.png": "b693360251001b03083b6805c53494024f67cac8",
+    "/assets/icons/MY360LogoPWA.png": "c8c6d68d4dafd129a7978097c0aba6e4973ff88c",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
